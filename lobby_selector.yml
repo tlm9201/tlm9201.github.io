@@ -1,0 +1,203 @@
+open_command: lobby
+size: 27
+menu_title: 'SERVER SELECTOR'
+items:
+  '0':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 0
+  '1':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 1
+  '2':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 2
+  '3':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 3
+  '4':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 4
+  '5':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 5
+  '6':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 6
+  '7':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 7
+  '8':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 8
+  '9':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 9
+  '10':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 10
+  '11':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 11
+  '12':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 12
+  '13':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 13
+  '14':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 14
+  '15':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 15
+  '16':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 16
+  '17':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 17
+  '18':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 18
+  '19':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 19
+  '20':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 20
+  '21':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 21
+  '22':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 22
+  '23':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 23
+  '24':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 24
+  '25':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 25
+  '26':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 26
+  '10':
+    material: head-BlockminersTV
+    slot: 11
+    display_name: '&a&l•&r&0Earth Survival&7'
+    rgb_gradient: '#00a6ff:#bc531_Earth Survival'
+    abcdef: '&abcd58rent'
+    lore:
+      - '&8---'
+      - '&8Information'
+      - '&8---'
+      - '&8&fVersion: &f1.20.6'
+      - '&8&f70nline: &8c88ff/bungee_beta'
+      - '&8&7Status: &abcde58&f&MAINTENANCE'
+      - '&8---'
+      - '&8&7LEFT-CLICK: &8#FF3C12Join the server'
+    left_click_commands:
+      - '[sound] ENTITY_FIREWORK_ROCKET_BLAST'
+      - '[console] move /player_name/ beta'
+      - '[close]'
+  '12':
+    material: head-ChillCr0te
+    slot: 15
+    display_name: '&e@&7&lPvP Server!'
+    rgb_gradient: '#e7c3fc:#fa502_PvP Server!'
+    lore:
+      - '&8---'
+      - '&8Information'
+      - '&8---'
+      - '&8&fVersion: &f1.20.6'
+      - '&8&f70nline: &8c88ff/bungee_pvp'
+      - '&8&7Status: &abcde58&fONLINE'
+      - '&8---'
+      - '&8&7LEFT-CLICK: &8#FF3C12Join the server'
+    left_click_commands:
+      - '[sound] ENTITY_FIREWORK_ROCKET_BLAST'
+      - '[console] move /player_name/ pvp'
+      - '[close]'
+  '13':
+    material: NETHER_STAR
+    slot: 13
+    display_name: '&eim'
+    rgb_gradient: '#f791ff:#4e538_Hub - 1/'
+    lore:
+      - '&8---'
+      - '&8Information'
+      - '&8---'
+      - '&8&fVersion: &f1.20.6'
+      - '&8&f70nline: &8c88ff/bungee_aether'
+      - '&8&7Status: &abcde58&fONLINE'
+      - '&8---'
+      - '&8&7LEFT-CLICK: &8#FF3C12 ALREADY CONNECTED'
+  '17':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 17
+  '18':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 18
+  '26':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 19
+  '27':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 20
+  '28':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 21
+  '29':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 22
+  '30':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 23
+  '31':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 24
+  '32':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 25
+  '33':
+    display_name: ''
+    material: BLACK_STAINED_GLASS_PANE
+    slot: 26
