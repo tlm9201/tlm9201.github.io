@@ -1,5 +1,5 @@
 open_command: lobby
-lobbysize: 27
+size: 27 
 menu_title: 'ꜱᴇʀᴠᴇʀ ꜱᴇʟᴇᴄᴛᴏʀ'
 items: 
   '0':    
